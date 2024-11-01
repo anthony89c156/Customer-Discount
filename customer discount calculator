@@ -1,0 +1,9 @@
+
+    public static void main(String[] args) {
+        // File names for input and output
+        String inputFile = "customers.txt";
+        String outputFile = "customerdiscount.txt";
+
+        // Process the customers
+        processCustomers(inputFile, outputFile);
+    }
